@@ -326,4 +326,5 @@ describe('.avg, should calculate average value in given array', () => {
 
     assert.equal(avgValue, 7.1);
   });
+  
 });
